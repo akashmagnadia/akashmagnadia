@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Akash 👨‍💻🏌️‍♂️🚴‍♂️🍕💤
+
+This is me everytime my code compiles sccessfully.
+<br>
+<img src="https://media.giphy.com/media/qavXDVjuaGPuw/giphy.gif" alt="Psych Excited"  width=250/>
 
 <!--
 **akashmagnadia/akashmagnadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
