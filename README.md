@@ -1,6 +1,6 @@
 ### Hi, I'm Akash 👨‍💻🏌️‍♂️🚴‍♂️🍕💤
 
-I am a student at UIC studying computer science. I love making Android Applications integrating machine learning, and one of my proudest projects is making an android app that takes pictures of wildlife when the camera detects them.
+I am a student at UIC studying computer science. I love making Android Applications integrating machine learning, and one of my proudest projects is making <a href="https://github.com/akashmagnadia/Smart-Wildlife-Capture">an android app</a> that takes pictures of wildlife when the camera detects them.
 <br>
 <br>
 This is how felt when I actually made this project work.
