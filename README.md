@@ -8,7 +8,7 @@ This is how felt when I actually made this project work.
 <img src="https://media.giphy.com/media/qavXDVjuaGPuw/giphy.gif" alt="Psych Excited"  width=250/>
 <br>
 <br>
-This is how I chose that my next project will be in AngularJS
+This is how I chose that my next project will be in Flutter
 <br>
 <img src="https://media.giphy.com/media/Fn3T4dRif6Zby/giphy.gif" alt="Spritual GPS"  width=250/>
 
